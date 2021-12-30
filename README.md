@@ -1,19 +1,15 @@
 *Use of this software is subject to important terms and conditions as set forth in the License file*
 
-# App Scaffold
+# Navbar example
 
 ## Description
-This repo contains a scaffold to help developers build [apps for Zendesk products](https://developer.zendesk.com/apps/docs/apps-v2/getting_started).
+This is a small react app showcasing the proper way to compile assets so the icon_nav_bar.svg will render correctly.
 
 ## Getting Started
 
-### Dependencies
-- [Node.js](https://nodejs.org/en/) >= 6.11.5
-- [Ruby](https://www.ruby-lang.org/) >= 2.0.x
-
 ### Setup
 1. Clone or fork this repo
-2. Change (`cd`) into the `app_scaffold` directory
+2. Change (`cd`) into the `nav-example` directory
 3. Run `yarn install`
 
 You can use either `yarn` or `npm` as package manager and run the scripts with the corresponding commands.
